@@ -9,7 +9,7 @@ export const site = {
   seloAutor: "por Cuide do seu Mei",
   checkoutUrl:
     process.env.NEXT_PUBLIC_HOTMART_CHECKOUT_URL ||
-    "https://pay.hotmart.com/SEU_PRODUTO",
+    "https://pay.hotmart.com/F107133690I",
 
   hero: {
     eyebrow: "E-book • Nutrição vegana + filosofia do yoga",
