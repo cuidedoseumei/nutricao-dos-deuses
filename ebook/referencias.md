@@ -42,9 +42,28 @@ esta lista atualizada é responsabilidade do agente `nutricao-cientifica` (ciên
     gunas** (sáttva, rajas, tamas). Ver *Stanford Encyclopedia of Philosophy* e traduções
     comentadas de textos clássicos.
 12. **Yoga clássico e os yamas** — *ahimsa* (não-violência) como fundamento ético da
-    alimentação vegetal.
-13. Classificação tradicional dos alimentos (sáttvico/rajásico/tamásico) em textos e
-    comentários da tradição do yoga.
+    alimentação vegetal (Yoga Sutras de Patáñjali).
+13. **Bhagavad Gita 17.7–10** — a classificação do alimento pelos três gunas
+    (sáttvico/rajásico/tamásico). Traduções/comentários: asitis.com, srimadgita.com,
+    bhagavad-gita.us.
+
+## Ayurveda (tradição indiana — não são fontes de alegação clínica)
+
+14. **Āyurveda's Contributions to Vegetarian Nutrition in Medicine** — artigo indexado no
+    PubMed (PMID 27159979). <https://pubmed.ncbi.nlm.nih.gov/27159979/>
+15. **Shad Rasa (6 sabores)** e sua relação com elementos e doshas — Banyan Botanicals,
+    Maharishi Ayurveda ("Taste as Medicine"), Organic India.
+16. **Sapta Dhatus (7 tecidos)** — funções e cadeia de nutrição (rasa→rakta→…→shukra) —
+    California College of Ayurveda, Banyan Botanicals, Planet Ayurveda.
+17. **Doshas, Agni e Ama** — fundamentos da digestão ayurvédica — Ayurveda.com (Ayurvedic
+    Diet Guide) e guias clássicos.
+18. **Viruddha Ahara** (combinações incompatíveis) — revisões em ResearchGate/JRAS sobre
+    incompatibilidade alimentar e digestão.
+19. **Dinacharya** (rotina diária e ritmo das refeições) — guias clássicos de Ayurveda.
+
+> Nota metodológica: as fontes 11–19 sustentam o conteúdo **de tradição**, sempre rotulado
+> como tal. Nenhuma delas é usada para sustentar alegação de saúde/eficácia — essas exigem as
+> fontes científicas (itens 1–10).
 
 ---
 
