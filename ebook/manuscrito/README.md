@@ -29,5 +29,7 @@ que alimenta cada parte está em [`../pesquisa/`](../pesquisa/).
 - Referências
 
 ## Status
-Esqueleto pronto. Capítulos 7, 8 e 9 têm base de pesquisa consolidada. Parte III depende do
-material do autor (ver [`autor/`](autor/)).
+**1º rascunho completo escrito** em [`manuscrito.md`](manuscrito.md) — todos os capítulos em
+linguagem humana, revisados e consistentes com a pesquisa. Pendências:
+- **Capítulo 12 (receitas)**: reservado para o material do autor (ver [`autor/`](autor/)).
+- **Capítulo 13 (cardápio/lista)**: a finalizar junto com as receitas.
