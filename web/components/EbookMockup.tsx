@@ -88,8 +88,9 @@ export default function EbookMockup({ className = "" }: { className?: string }) 
         fill="#9fb8a5"
         fontFamily="system-ui, sans-serif"
         fontSize="10"
+        letterSpacing="1"
       >
-        Cuide do seu Mei
+        CIÊNCIA • YOGA • AYURVEDA
       </text>
     </svg>
   );

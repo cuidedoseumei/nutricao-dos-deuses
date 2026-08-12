@@ -48,7 +48,7 @@ ser: um lugar diário de cuidado, de consciência e de vida.
 
 Com todo o carinho,
 
-*— Cuide do seu Mei*
+*— Alimentação dos Deuses*
 
 ---
 

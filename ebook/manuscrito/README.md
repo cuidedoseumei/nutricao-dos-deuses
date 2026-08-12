@@ -1,35 +1,29 @@
 # Manuscrito — Alimentação dos Deuses
 
-Estrutura proposta do e-book. Cada capítulo em Markdown, depois diagramado em PDF. A pesquisa
-que alimenta cada parte está em [`../pesquisa/`](../pesquisa/).
+O manuscrito completo (rascunho v2, ~30 mil palavras) está em
+[`capitulos/`](capitulos/), um arquivo por capítulo, na ordem de leitura. A pesquisa que
+alimenta cada parte está em [`../pesquisa/`](../pesquisa/) (ciência, minerais e Ayurveda).
 
-## Estrutura proposta
+## Estrutura (v2)
 
-**Parte I — A filosofia (o porquê)**
-1. Alimentação dos Deuses: o que é comer como um deus
-2. Sámkhya e os três gunas — sáttva, rajas, tamas
-3. Ahimsa: a ética da não-violência à mesa
-4. A ponte: onde a tradição encontra a ciência
+**Parte I — A visão (filosofia indiana)**
+- Comer como um deus · *Annamaya* (você é feito de comida) · Sámkhya e os gunas · Ayurveda 101
+  (doshas, agni, ama) · os 6 sabores · *ahimsa* · a ponte ciência × tradição.
 
-**Parte II — A ciência (o como funciona)**
-5. Como o corpo usa o que você come (digestão e metabolismo)
-6. Proteína vegetal sem mistério (aminoácidos e variedade)
-7. Os minerais do corpo — guia completo *(baseado em `pesquisa/minerais/`)*
-8. As vitaminas que exigem plano: B12, D e ômega-3
-9. Biodisponibilidade: tirar o máximo de cada alimento
+**Parte II — O corpo (ciência + Ayurveda)**
+- Digestão · intestino/microbioma · proteína · **os minerais em seções dedicadas** (macro e
+  traço, com olhar ayurvédico por *dhatu*) · vitaminas-plano (B12, D, ômega-3) ·
+  biodisponibilidade · *ojas*/vitalidade · mitos e verdades.
 
-**Parte III — A prática (o que fazer)**
-10. Montando o prato sáttvico no dia a dia
-11. Suplementação inteligente (o essencial, sem exagero)
-12. **Receitas e o método do autor** *(de `manuscrito/autor/`)*
-13. Cardápio e lista de compras
-
-**Encerramento**
-- Suas próximas escolhas
-- Referências
+**Parte III — A prática**
+- Montar o prato · ritmo/dinacharya · estações (ritucharya) · especiarias · água · suplementação
+  · cozinha prática · rótulos · fases da vida · primeiros 30 dias · **receitas (reservado ao
+  autor)** · cardápio de 7 dias · perguntas frequentes · encerramento.
 
 ## Status
-**1º rascunho completo escrito** em [`manuscrito.md`](manuscrito.md) — todos os capítulos em
-linguagem humana, revisados e consistentes com a pesquisa. Pendências:
-- **Capítulo 12 (receitas)**: reservado para o material do autor (ver [`autor/`](autor/)).
-- **Capítulo 13 (cardápio/lista)**: a finalizar junto com as receitas.
+Rascunho v2 completo em [`capitulos/`](capitulos/) (~30 mil palavras), em linguagem humana,
+revisado e consistente com a pesquisa. Pendências:
+- **Capítulo das receitas**: reservado para o material do autor (ver [`autor/`](autor/)).
+- **Cardápio**: a personalizar junto com as receitas.
+
+> A prévia visual do manuscrito é gerada a partir de `capitulos/` e publicada como Artifact.

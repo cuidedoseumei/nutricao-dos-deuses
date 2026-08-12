@@ -6,7 +6,7 @@
 
 A ponte entre a **ciência nutricional moderna** e a **sabedoria milenar do yoga**. Não é
 "mais uma dieta": é uma forma de comer que nutre o corpo (evidência) e eleva a energia
-(filosofia sáttvica). Selo de origem: **Cuide do seu Mei**.
+(filosofia sáttvica).
 
 ## Tom de voz
 

@@ -17,7 +17,7 @@ Tráfego (orgânico + pago + afiliados)
 ## Topo — tráfego
 
 - **Orgânico:** Instagram/Reels e TikTok com conteúdo da persona (a confusão nutricional,
-  "e a B12?", energia/leveza, ética). O perfil "Cuide do seu Mei" como base.
+  "e a B12?", energia/leveza, ética). O perfil da marca Alimentação dos Deuses como base.
 - **Afiliados:** principal alavanca de volume (ver `afiliados.md`).
 - **Pago:** Meta Ads para públicos de interesse (vegetarianismo, yoga, vida saudável,
   maternidade consciente), quando a página já converter no orgânico.

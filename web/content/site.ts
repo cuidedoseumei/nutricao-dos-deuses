@@ -6,7 +6,7 @@
 
 export const site = {
   brand: "Alimentação dos Deuses",
-  seloAutor: "por Cuide do seu Mei",
+  seloAutor: "Alimentação dos Deuses",
   checkoutUrl:
     process.env.NEXT_PUBLIC_HOTMART_CHECKOUT_URL ||
     "https://pay.hotmart.com/F107133690I",
@@ -96,7 +96,7 @@ export const site = {
 
   autor: {
     title: "De quem cuida de gente de verdade",
-    text: "Nascido da missão do “Cuide do seu Mei”, este e-book reúne o cuidado com a saúde e a paixão por uma alimentação com propósito. Uma ponte entre o rigor da ciência e a leveza da tradição.",
+    text: "O “Alimentação dos Deuses” nasceu do cuidado com a saúde e da paixão por uma alimentação com propósito. Uma ponte entre o rigor da ciência e a leveza da tradição.",
   },
 
   oferta: {
@@ -173,7 +173,7 @@ export const site = {
   footer: {
     disclaimer:
       "Conteúdo educativo. Não substitui a orientação individual de nutricionista ou médico. Resultados variam de pessoa para pessoa. Toda afirmação de saúde do material é referenciada em fontes reconhecidas.",
-    rights: "Cuide do seu Mei",
+    rights: "Alimentação dos Deuses",
   },
 
   obrigado: {

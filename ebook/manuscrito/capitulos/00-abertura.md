@@ -2,8 +2,6 @@
 
 ### Nutrição vegana com a clareza da ciência e a sabedoria milenar da Índia
 
-*por Cuide do seu Mei*
-
 ---
 
 > **Antes de começar — um combinado honesto**
@@ -77,4 +75,4 @@ livro é seu. Eu só estou aqui para caminhar do seu lado.
 
 Vamos?
 
-*— Cuide do seu Mei*
+*— Alimentação dos Deuses*
