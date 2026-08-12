@@ -5,15 +5,14 @@
 O programa de afiliados é a alavanca de escala: outras pessoas divulgam o e-book e ganham
 comissão por venda. Para um infoproduto de ticket baixo, é o motor principal de volume.
 
-## Comissão sugerida
+## Comissão definida: **50%**
 
-- **50% a 70%** por venda é o padrão de mercado para e-books/infoprodutos na Hotmart —
-  comissões altas atraem afiliados, e como o custo marginal do e-book é ~zero, a margem
-  ainda é saudável.
-- **Sugestão de partida: 60%.** Em um preço de R$ 47:
-  - Afiliado recebe ~R$ 28,20
-  - Taxa Hotmart (~9,9% + R$1, aproximado — **confirmar na plataforma**) sai do total
-  - Produtor fica com o restante (ainda positivo, com custo de produção já pago)
+- Em um preço promocional de **R$ 59**:
+  - Afiliado recebe **~R$ 29,50** por venda.
+  - Taxa Hotmart (~9,9% + R$1, aproximado — **confirmar na plataforma**) sai do total.
+  - Produtor fica com o restante (positivo, com custo de produção já pago).
+- 50% é competitivo o suficiente para atrair afiliados e ainda preserva boa margem, já que o
+  custo marginal do e-book é ~zero.
 - Vendas **diretas** (sem afiliado, via tráfego próprio) ficam 100% com o produtor (menos
   taxa Hotmart) — por isso vale ter os dois canais.
 
@@ -43,6 +42,6 @@ Preparar e disponibilizar (o agente de copy produz):
 - Nº de afiliados ativos, % de vendas via afiliado, ticket médio, conversão por afiliado,
   comissão média paga, margem líquida do produtor.
 
-## Decisões que preciso de você
-- [ ] Percentual de comissão (sugiro 60%).
+## Decisões
+- [x] Percentual de comissão: **50%**.
 - [ ] Afiliação automática ou com aprovação manual.

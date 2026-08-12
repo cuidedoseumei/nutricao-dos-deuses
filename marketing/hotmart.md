@@ -11,7 +11,7 @@ conta Hotmart** — as etapas marcadas com 🔑 dependem de você.
 - [ ] Definir a página de obrigado/entrega (área de membros ou download direto).
 
 ## 2. Preço e pagamento
-- [ ] 🔑 Definir preço (sugestão: R$ 47 — ver `oferta.md`).
+- [ ] 🔑 Definir preço: **R$ 59** (promocional; âncora R$ 199 — ver `oferta.md`).
 - [ ] Habilitar **parcelamento** e principais meios de pagamento (cartão, Pix, boleto).
 - [ ] Configurar a **garantia de 7 dias** (reembolso).
 

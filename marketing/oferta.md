@@ -35,15 +35,13 @@ O e-book **Alimentação dos Deuses**:
 
 > Bônus são reais e entregues junto — nada de escassez falsa.
 
-## Ancoragem e preço (a definir com você)
+## Ancoragem e preço (definido)
 
-- **Valor percebido** (produto + 4 bônus): ancorar em uma soma alta (ex.: "tudo isso valeria
-  R$ X").
-- **Faixa de preço sugerida para teste:** e-books de nutrição/infoprodutos no Brasil vivem
-  tipicamente na faixa de **R$ 27 a R$ 97**. Sugestão de partida: **R$ 47** (com teste de
-  R$ 37 e R$ 67), parcelável pela Hotmart.
-- Precisa considerar a **comissão de afiliado** (ver `afiliados.md`) e as taxas Hotmart na
-  margem.
+- **Preço cheio (âncora):** ~~R$ 199~~
+- **Oferta promocional de lançamento:** **R$ 59** — parcelável pela Hotmart.
+- A ancoragem R$ 199 → R$ 59 comunica ~70% de desconto, reforçando urgência e valor.
+- **Comissão de afiliado: 50%** (≈ R$ 29,50 por venda) — ver `afiliados.md`. Margem saudável
+  mesmo após comissão + taxas Hotmart, já que o custo marginal do e-book é ~zero.
 
 ## Garantia (reversão de risco)
 
@@ -57,7 +55,7 @@ usado como argumento de confiança): não gostou, devolvemos 100%, sem perguntas
 - O empilhamento de bônus eleva o valor percebido muito acima do preço, melhorando a
   conversão sem canibalizar a margem.
 
-## Decisões que preciso de você
-- [ ] Preço de lançamento (sugiro R$ 47).
-- [ ] Comissão de afiliado (ver `afiliados.md`).
+## Decisões
+- [x] Preço: **R$ 199 → R$ 59** (promocional de lançamento).
+- [x] Comissão de afiliado: **50%**.
 - [ ] Nome final dos bônus e se todos entram já no lançamento.
