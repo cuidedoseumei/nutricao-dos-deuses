@@ -9,26 +9,29 @@ mais uma vez, a ciência moderna chegou ao mesmo lugar, só que chamando de "cro
 
 ### O sol como relógio da digestão
 
-A ideia central do Ayurveda sobre as refeições é linda na sua simplicidade: o seu fogo
+A ideia central do Ayurveda sobre a alimentação é linda na sua simplicidade: o seu fogo
 digestivo, o **agni**, segue o sol. Ele é mais forte no **meio do dia**, quando o sol está no
-auge, e mais fraco de manhã cedo e à noite. Daí vem a recomendação clássica, repetida há
-milênios:
+auge, e mais fraco de manhã cedo e à noite. Daí vêm duas recomendações antigas — que não são
+sobre "quantas refeições", mas sobre *quando*, no dia, o corpo digere melhor:
 
-**Faça do almoço a sua maior refeição.** É ao meio-dia que o seu corpo está mais preparado para
-digerir, absorver e aproveitar. Um almoço mais robusto é digerido com facilidade quando o agni
-está no pico.
+**A sua nutrição principal cai melhor por volta do meio-dia.** Se você vai fazer a sua refeição
+mais completa e substancial do dia, o período em torno do meio-dia é quando o corpo está mais
+preparado para digerir, absorver e aproveitar — o agni no pico. Comer o mais forte quando o sol
+está alto é ir a favor da natureza.
 
-**Faça o jantar mais leve e mais cedo.** À noite, o fogo digestivo baixa, o corpo se prepara
-para descansar. Uma refeição pesada tarde da noite fica "parada", mal digerida — na linguagem
-da tradição, gera *ama*; na linguagem moderna, atrapalha o sono, a glicose e o descanso do
-organismo.
+**À noite, vá leve — ou nem coma.** Quando o sol se põe, o fogo digestivo baixa e o corpo se
+prepara para descansar. Comida pesada tarde da noite fica "parada", mal digerida — na linguagem
+da tradição, gera *ama*; na linguagem moderna, atrapalha o sono, a glicose e o descanso. Se a
+fome real não estiver ali à noite, escutá-la e não comer é perfeitamente saudável.
 
-E olha só a ciência batendo palmas: os estudos de crononutrição vêm mostrando, cada vez mais,
-que concentrar mais calorias no início do dia e aliviar a noite tende a ser melhor para o
-metabolismo, para o controle do açúcar no sangue e para o peso. Comer tarde da noite anda
-associado a piores marcadores metabólicos. A tradição sabia disso pela observação; a ciência
-confirmou pela medição. Milênios de distância, mesmo conselho: **coma como um rei no almoço e
-como um sábio à noite.**
+E olha só a ciência batendo palmas: os estudos de crononutrição mostram, cada vez mais, que
+concentrar a alimentação na parte mais clara e ativa do dia, e aliviar a noite, tende a ser
+melhor para o metabolismo, para o açúcar no sangue e para o peso. Comer tarde anda associado a
+piores marcadores. A tradição sabia pela observação; a ciência confirmou pela medição. Repare
+que isso conversa direto com a ideia de comer **poucas vezes, quando há fome de verdade**: em
+vez de espalhar quatro ou cinco refeições pelo dia inteiro, muita gente se sente muito melhor
+concentrando a nutrição em uma ou duas refeições completas, de preferência na parte luminosa do
+dia, e dando ao corpo longas horas de descanso digestivo.
 
 ### O ritmo, não o relógio rígido
 

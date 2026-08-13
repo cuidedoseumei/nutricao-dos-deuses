@@ -40,9 +40,9 @@ Esta semana é sobre logística — fazer a vida saudável ficar fácil:
 
 - **Cozinhe em lote uma vez.** Reserve uma hora no fim de semana e deixe feijão, arroz e uma
   proteína prontos. Sinta como a semana fica mais leve (Capítulo da cozinha prática).
-- **Ajuste o ritmo:** tente fazer do almoço a refeição maior e do jantar algo mais leve e mais
-  cedo (Capítulo do ritmo). Coma sentado, sem tela, mastigando — pelo menos numa refeição por
-  dia, para começar.
+- **Ajuste o ritmo:** concentre a sua nutrição na parte mais luminosa do dia e vá leve (ou nem
+  coma) à noite, comendo quando a fome for real — sem se prender a um número fixo de refeições
+  (Capítulo do ritmo). Coma sentado, sem tela, mastigando — pelo menos numa refeição, para começar.
 - **Monte a despensa** com os secos que salvam (feijão, lentilha, arroz, aveia, castanhas,
   temperos).
 

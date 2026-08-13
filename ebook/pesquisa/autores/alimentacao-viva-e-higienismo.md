@@ -1,8 +1,13 @@
 # Autores citados — alimentação viva, higienismo e visão energética
 
-Notas de pesquisa para citar cada autor com precisão e com as ressalvas necessárias. Regra do
-livro: **ideias/filosofias são apresentadas como tal; nenhuma alegação de cura é afirmada como
-fato.** Alegações de saúde só entram com fonte científica (ver `../../referencias.md`).
+Notas de pesquisa para citar cada autor com espaço e respeito. Diretriz editorial (definida com
+o autor do e-book):
+- **Dar espaço generoso a todos os autores** — cada um com sua contribuição própria.
+- **Não** usar alertas de "terapia sem comprovação / arriscada". Em vez disso, um princípio
+  único e respeitoso: **qualquer tratamento de condição de saúde deve ter acompanhamento
+  médico**; a comida é aliada, não substituta.
+- **Não afirmar cura** de doença como fato (apresentar como proposta/visão do autor).
+Alegações de saúde de caráter factual seguem exigindo fonte científica (ver `../../referencias.md`).
 
 ## Edmond Bordeaux Székely (1905–1979)
 Filólogo e escritor húngaro. Autor de *O Evangelho Essênio da Paz*. 
@@ -22,9 +27,9 @@ Fonte: <https://en.wikipedia.org/wiki/Edmond_Bordeaux_Szekely>
 Pioneira dos "alimentos vivos" (living foods), do suco de **wheatgrass** (grama de trigo) e
 fundadora do Hippocrates Health Institute. Defendia que as plantas concentram mais "força
 vital"/energia solar e que alimentos crus e ricos em enzimas nutrem e "desintoxicam".
-- **Ressalva forte:** afirmou, sem comprovação, que alimentos vivos/wheatgrass curariam
-  "praticamente qualquer doença, inclusive câncer" — **não endossar**. Foi acusada de exercer
-  medicina sem licença. Citar como **pioneira do movimento** e pela filosofia da comida viva.
+- **Enquadramento:** citar como **pioneira do movimento** e pela filosofia da comida viva/força
+  vital. Apresentar suas propostas como visão dela; não afirmar cura como fato. Cautela via o
+  princípio geral (acompanhamento médico).
 Fonte: <https://en.wikipedia.org/wiki/Ann_Wigmore>
 
 ## Gabriel Cousens (médico, Columbia 1969)
@@ -57,12 +62,11 @@ relevante em algumas doenças crônicas.
 Fonte: <https://www.goodreads.com/book/show/9347569>
 
 ## Max Gerson (1881–1959)
-Médico, criador da **Terapia Gerson** (dieta orgânica intensiva, sucos, suplementos e enemas
-de café). Figura histórica na ideia de que dieta/nutrição importam nas doenças crônicas.
-- **RESSALVA CRÍTICA (obrigatória no texto):** a Terapia Gerson **não tem comprovação
-  científica** como tratamento de câncer; American Cancer Society, AMA e NCI a consideram
-  ineficaz e **arriscada** (enemas de café perigosos; desidratação, desequilíbrio
-  eletrolítico; risco de atrasar o tratamento real). **Nunca** afirmar que "curou o câncer".
-  Citar apenas como marco histórico da valorização da dieta, com o alerta.
-Fonte: <https://en.wikipedia.org/wiki/Gerson_therapy>,
-<https://www.mskcc.org/cancer-care/integrative-medicine/herbs/gerson-regimen>
+Médico, pioneiro em protocolos nutricionais intensivos (dieta orgânica, sucos, alimentos vivos).
+Figura histórica que levou a dieta a sério quando a medicina mal olhava para ela; influenciou o
+movimento da alimentação viva.
+- **Enquadramento no texto:** citar como **marco histórico** da valorização da comida no
+  cuidado com a saúde. **Não** afirmar que curou câncer/doença; apresentar como a **proposta/
+  crença** dele. Cobrir a cautela pelo princípio geral (acompanhamento médico para qualquer
+  tratamento), sem alerta específico de "sem comprovação/arriscado".
+Fonte (contexto): <https://en.wikipedia.org/wiki/Gerson_therapy>

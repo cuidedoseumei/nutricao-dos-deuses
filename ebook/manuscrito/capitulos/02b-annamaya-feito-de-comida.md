@@ -43,7 +43,7 @@ processada até não sobrar quase nada?
 Repare como isso se conecta com o Capítulo 1: lá eu disse que a comida é informação. Aqui a
 gente vai um passo além: a comida é **substância**. Ela é, ao mesmo tempo, a mensagem e o
 material. Informa o seu corpo *e* constrói o seu corpo. Poucas coisas na vida têm esse duplo
-poder, e você exerce esse poder três vezes por dia, quase sem perceber.
+poder, e você exerce esse poder a cada refeição, quase sem perceber.
 
 ### A camada física é só o começo (mas é a base)
 

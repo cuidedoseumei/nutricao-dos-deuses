@@ -42,7 +42,7 @@ começou a entender. Aquele brócolis não é só um punhado de calorias — ele
 que ligam e desligam processos nas suas células. Aquele feijão não é só proteína e ferro — ele
 alimenta os trilhões de bactérias que vivem no seu intestino e que, cada vez mais, os estudos
 mostram influenciar seu humor, sua imunidade, sua cabeça. Você não está só se abastecendo.
-Você está, três vezes por dia, escrevendo instruções para o seu próprio organismo.
+Você está, a cada refeição, escrevendo instruções para o seu próprio organismo.
 
 Os sábios da Índia intuíram isso muito antes de existir a palavra "microbioma". Eles diziam
 que o alimento carrega uma **qualidade** — não só uma quantidade — e que essa qualidade se
@@ -55,7 +55,7 @@ disposição, o seu envelhecimento.
 Então a pergunta que este livro te ajuda a responder não é "quantas calorias tem isso?". É uma
 pergunta muito mais interessante:
 
-*Que conversa eu quero ter com o meu corpo, três vezes por dia, pelo resto da minha vida?*
+*Que conversa eu quero ter com o meu corpo, a cada refeição, pelo resto da minha vida?*
 
 Porque é isso que a alimentação é: uma conversa longa, diária, que dura décadas. Nenhuma
 refeição sozinha define você — nem a mais saudável, nem a mais furada. Não é o brócolis de

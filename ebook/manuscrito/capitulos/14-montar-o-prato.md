@@ -1,10 +1,10 @@
 # Parte III — A prática
 
-## Capítulo 14 — Montando o prato: a teoria vira almoço
+## Capítulo 14 — Montando o prato: a teoria vira comida
 
 Você chegou até aqui. Atravessou a filosofia, entendeu o corpo, conheceu cada mineral. Agora
-vem a pergunta que realmente importa, a que você vai responder três vezes por dia pelo resto da
-vida: **como fica isso num prato de verdade?**
+vem a pergunta que realmente importa, a que você vai responder a cada vez que sentar para comer,
+pelo resto da vida: **como fica isso num prato de verdade?**
 
 Eu tenho uma boa notícia que talvez te surpreenda depois de tanta informação: montar um bom
 prato vegano é **muito mais simples** do que ler sobre isso. Toda a ciência dos capítulos
@@ -53,26 +53,24 @@ ferro. O salgado resolveu o iodo. A tradição usou o **paladar** como guia, e o
 seguido com atenção, conduz à boa nutrição. É a coisa mais elegante que eu aprendi escrevendo
 este livro.
 
-### Um dia inteiro, não uma refeição
+### A semana inteira, não a refeição isolada
 
 Uma libertação importante: você **não** precisa que cada refeição seja um monumento nutricional
-completo. Lembra que o corpo monta a nutrição ao longo do dia? Pense no **dia inteiro** como a
-unidade, não em cada prato isolado.
+completo, nem precisa comer um número fixo de vezes ao dia. Lembra que o corpo guarda e usa os
+nutrientes ao longo de dias? Então a unidade certa não é o prato, nem sequer o dia — é a
+**semana**.
 
-Um dia equilibrado pode ser assim, sem nenhuma neura:
+Isso te dá uma liberdade enorme. Você pode comer **uma, duas ou mais vezes ao dia**, quando a
+fome for verdadeira, e ainda assim se nutrir muito bem — desde que, ao longo da semana, os
+grupos essenciais passem pelo seu prato: leguminosas (proteína, ferro, zinco), folhas verdes
+(cálcio, magnésio, folato), fontes de vitamina C junto do ferro, castanhas e sementes (com a sua
+castanha-do-pará pelo selênio), cereais integrais e raízes, uma fonte de ômega-3, bastante
+alimento vivo — e a B12 suplementada. É a mesma checagem simples do capítulo da semana de
+nutrição, feita de cabeça, sem tabela e sem relógio.
 
-- **Café da manhã:** um mingau de aveia (magnésio, fibra) com linhaça moída (ômega-3), fruta
-  (vitamina C) e pasta de amendoim ou umas castanhas (proteína, gordura boa). Sua
-  castanha-do-pará do dia pelo selênio, se quiser encaixar aqui.
-- **Almoço:** o prato completo da fórmula — arroz integral, feijão, um refogado de legumes,
-  folhas verdes com limão.
-- **Lanche:** uma fruta com um punhado de sementes de abóbora (zinco, ferro), ou um homus com
-  cenoura.
-- **Jantar:** algo mais leve — uma sopa de lentilha com legumes, ou um tofu grelhado com
-  vegetais e batata-doce.
-
-Some tudo, e você bateu ferro, zinco, cálcio, magnésio, proteína, ômega-3 e vitamina C, sem ter
-consultado uma tabela sequer. Foi tudo pelo hábito, pela variedade, pela cor e pelo sabor.
+Cada refeição sua, montada pela fórmula do prato e pelos seis sabores, já contribui com uma boa
+fatia disso. Some as refeições da semana — poucas ou muitas, cedo ou tarde —, e a conta fecha
+sozinha, pela variedade, pela cor e pelo sabor.
 
 ### O prato imperfeito também conta
 
