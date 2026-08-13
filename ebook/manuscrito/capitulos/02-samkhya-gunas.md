@@ -15,6 +15,19 @@ filosófico sobre o qual boa parte do yoga foi construída. Quando você faz uma
 e ouve falar em corpo, mente e algo maior que os atravessa, está pisando, sem saber, em chão
 que o Sámkhya preparou.
 
+Vale abrir um parêntese sobre o próprio **yoga**, porque a palavra virou sinônimo de
+alongamento e pose bonita para foto, e é bem mais do que isso. Na origem, o yoga é um
+**darshana** — literalmente um "ponto de vista", uma das seis grandes visões filosóficas do
+hinduísmo. E é uma filosofia **estritamente prática**: não existe para ser só pensada, existe
+para ser vivida. Seu propósito, nas raízes, é preparar corpo e mente para **meditar**, despertar
+a **kundaliní** (a energia que a tradição descreve adormecida na base da coluna, ligada aos
+*chakras*) e, no limite, **transcender** — ir além das camadas comuns da experiência. As
+posturas físicas que a gente associa ao yoga são só uma pequena parte, e servem justamente a
+esse fim maior: um corpo bem cuidado e uma mente serena são o assento de onde a meditação
+acontece. Guardar isso muda tudo, inclusive o sentido de comer bem — porque, nessa visão, a
+alimentação não é um fim, é um **preparo**: você nutre o corpo para que ele sirva de instrumento
+a algo mais alto. É por isso que a comida sáttvica importa tanto para a tradição.
+
 A ideia central do Sámkhya, bem resumida, é que existem dois princípios fundamentais na
 realidade: a **consciência** (aquilo que em você observa, que é testemunha da vida) e a
 **natureza** (tudo o que é observado — o corpo, a mente, as emoções, o mundo, a comida). A
@@ -23,6 +36,13 @@ qualidades que estão sempre presentes, em toda parte, em proporções que mudam
 
 Esses três fios são os **gunas**. E entender os gunas é ganhar uma lente para enxergar não só a
 comida, mas praticamente qualquer coisa na sua vida.
+
+Uma nota que costura o livro: esses mesmos três gunas atravessam toda a sabedoria indiana. Eles
+nascem no Sámkhya, organizam a prática do yoga, e reaparecem no **Ayurveda**, a medicina
+tradicional da Índia que você vai conhecer no próximo capítulo — lá, sáttva, rajas e tamas
+descrevem também qualidades da mente e dos alimentos. Não são ideias soltas de escolas rivais;
+são um vocabulário compartilhado, como três notas que ecoam em músicas diferentes da mesma
+tradição. Por isso eles vão te acompanhar do começo ao fim destas páginas.
 
 ### Os três fios de tudo
 

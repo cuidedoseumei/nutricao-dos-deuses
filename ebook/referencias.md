@@ -61,9 +61,27 @@ esta lista atualizada é responsabilidade do agente `nutricao-cientifica` (ciên
     incompatibilidade alimentar e digestão.
 19. **Dinacharya** (rotina diária e ritmo das refeições) — guias clássicos de Ayurveda.
 
-> Nota metodológica: as fontes 11–19 sustentam o conteúdo **de tradição**, sempre rotulado
-> como tal. Nenhuma delas é usada para sustentar alegação de saúde/eficácia — essas exigem as
-> fontes científicas (itens 1–10).
+## Autores citados — alimentação viva, higienismo e visão energética
+
+20. **Edmond Bordeaux Székely** — classificação dos alimentos (biogênico/bioativo/biostático/
+    biocida). *Ressalva:* autenticidade "antiga" do *Evangelho Essênio da Paz* contestada.
+    Ver `pesquisa/autores/alimentacao-viva-e-higienismo.md`.
+21. **Ann Wigmore** — pioneira dos alimentos vivos e do wheatgrass. *Alegações de cura não
+    endossadas.*
+22. **Gabriel Cousens** — *Conscious Eating* ("alimentação consciente"), alimentos vivos + Ayurveda.
+23. **Conceição Trucom** — alimentação viva/desintoxicante; crítica ao reducionismo nutricional
+    (frase "conceitos jurássicos" atribuída pelo autor, não confirmada literalmente).
+24. **Eduardo Corassa** — higienismo e nutrição vegetariana/crua (voz brasileira).
+25. **Alberto Peribáñez González** — *Lugar de Médico é na Cozinha*; alimentação viva (sem
+    linguagem de cura garantida).
+26. **Max Gerson** — marco histórico da valorização da dieta. *Ressalva crítica:* a Terapia
+    Gerson não tem comprovação científica como tratamento de câncer e é considerada arriscada
+    (American Cancer Society, AMA, NCI). Citado apenas como história, com o alerta.
+
+> Nota metodológica: as fontes 11–26 sustentam o conteúdo **de tradição, filosofia e história**,
+> sempre rotulado como tal. Nenhuma delas é usada para sustentar alegação de saúde/eficácia —
+> essas exigem as fontes científicas (itens 1–10). Nenhuma alegação de cura é afirmada como
+> fato no e-book.
 
 ---
 
