@@ -22,6 +22,10 @@ esta lista atualizada é responsabilidade do agente `nutricao-cientifica` (ciên
 6. **News-Medical — Macrominerals and Trace Minerals in the Diet** —
    <https://www.news-medical.net/health/Macrominerals-and-Trace-Minerals-in-the-Diet.aspx>
 
+6b. **NCBI/NAS — DRI: Arsenic, Boron, Nickel, Silicon, and Vanadium** (minerais ultratraço;
+    sem EAR/RDA/AI estabelecidas) — <https://www.ncbi.nlm.nih.gov/books/NBK222322/>; e
+    Nielsen, *Nutritional requirements for boron, silicon, vanadium, nickel* (PMID 1916090).
+
 ## Estudos de coorte relevantes (contexto populacional)
 
 7. **EPIC-Oxford** — estudo de coorte comparando padrões alimentares (onívoros, peixe,

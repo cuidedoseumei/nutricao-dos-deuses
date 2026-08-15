@@ -123,6 +123,7 @@ pele, você não precisa mais de força de vontade para comer melhor. Você simp
 de anos deixa de ser teoria e vira a sua verdade. É a coisa mais difícil de a ciência medir e
 a mais fácil de você viver.
 
-No próximo capítulo, a gente sai da filosofia mais abstrata e entra num sistema indiano
-incrivelmente prático e detalhado sobre corpo e comida: o Ayurveda. É onde a coisa fica com
-cara de manual de instruções do organismo.
+Nos próximos dois capítulos, a gente mergulha em duas ideias da tradição que mudam a forma de
+olhar para o próprio corpo: a de que você é, literalmente, **feito de comida** — e a de que
+existe mais de uma camada em você para nutrir. Depois delas, chegamos ao Ayurveda, o manual de
+instruções do organismo. Vem comigo.

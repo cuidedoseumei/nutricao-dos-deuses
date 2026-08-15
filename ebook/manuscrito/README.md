@@ -1,29 +1,32 @@
 # Manuscrito — Alimentação dos Deuses
 
-O manuscrito completo (rascunho v2, ~30 mil palavras) está em
-[`capitulos/`](capitulos/), um arquivo por capítulo, na ordem de leitura. A pesquisa que
-alimenta cada parte está em [`../pesquisa/`](../pesquisa/) (ciência, minerais e Ayurveda).
+O manuscrito completo (~40 mil palavras) está em [`capitulos/`](capitulos/), um arquivo por
+capítulo, **numerados na ordem de leitura (00–38)**. A pesquisa que alimenta cada parte está em
+[`../pesquisa/`](../pesquisa/) (ciência, minerais, Ayurveda e autores).
 
-## Estrutura (v2)
+## Estrutura (v4 — revisada)
 
-**Parte I — A visão (filosofia indiana)**
-- Comer como um deus · *Annamaya* (você é feito de comida) · Sámkhya e os gunas · Ayurveda 101
-  (doshas, agni, ama) · os 6 sabores · *ahimsa* · a ponte ciência × tradição.
+**Abertura** (00): combinado honesto + introdução.
 
-**Parte II — O corpo (ciência + Ayurveda)**
-- Digestão · intestino/microbioma · proteína · **os minerais em seções dedicadas** (macro e
-  traço, com olhar ayurvédico por *dhatu*) · vitaminas-plano (B12, D, ômega-3) ·
-  biodisponibilidade · *ojas*/vitalidade · mitos e verdades.
+**Parte I — A visão** (1–11): comer como um deus · Sámkhya e os gunas · annamaya · koshas ·
+Ayurveda 101 · os seis sabores · ahimsa · o alimento é luz + intuição · alimentos vivos (os
+autores) · a ponte ciência×tradição · além dos números.
 
-**Parte III — A prática**
-- Montar o prato · ritmo/dinacharya · estações (ritucharya) · especiarias · água · suplementação
-  · cozinha prática · rótulos · fases da vida · primeiros 30 dias · **receitas (reservado ao
-  autor)** · cardápio de 7 dias · perguntas frequentes · encerramento.
+**Parte II — O corpo** (12–22): digestão · intestino/microbioma · proteína · minerais:
+introdução · **macrominerais** · **minerais-traço** · **ultratraço** (boro, silício, vanádio,
+níquel) · vitaminas-plano (B12/D/ômega-3) · biodisponibilidade · ojas · mitos e verdades.
+
+**Parte III — A prática** (23–37): montar o prato · a semana de nutrição · o ritmo do dia ·
+comer com as estações · alimento autêntico/orgânicos · especiarias · água · rótulos · cozinha
+prática · suplementação · fases da vida · sol/movimento/respiração · primeiros 30 dias ·
+**receitas (reservado ao autor)** · perguntas frequentes.
+
+**Encerramento** (38).
 
 ## Status
-Rascunho v2 completo em [`capitulos/`](capitulos/) (~30 mil palavras), em linguagem humana,
-revisado e consistente com a pesquisa. Pendências:
-- **Capítulo das receitas**: reservado para o material do autor (ver [`autor/`](autor/)).
-- **Cardápio**: a personalizar junto com as receitas.
+Rascunho v4 revisado: numeração contínua, transições corrigidas, **todos os minerais** cobertos
+(7 macro + 10 traço + ultratraço), foco em alimentação com a tradição como pilar. Pendências:
+- **Capítulo 36 (receitas)**: reservado para o material do autor (ver [`autor/`](autor/)).
+- Citação literal de Conceição Trucom ("conceitos jurássicos") aguarda fonte do autor.
 
-> A prévia visual do manuscrito é gerada a partir de `capitulos/` e publicada como Artifact.
+> A prévia visual e o PDF são gerados a partir de `capitulos/` (ordem alfabética dos arquivos).
