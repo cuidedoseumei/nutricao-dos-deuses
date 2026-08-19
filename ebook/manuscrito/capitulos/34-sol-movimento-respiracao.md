@@ -79,7 +79,7 @@ nutre o seu corpo. O **sol** te dá vitamina D e vitalidade. O **movimento** man
 forte e alegre. A **respiração** acalma a mente e alimenta a sua energia. E, por baixo de tudo,
 o **descanso**, a **paz** e o **propósito** cuidam das camadas mais profundas.
 
-Isso é comer — e viver — como um deus. Não é só o que entra pela boca. É um jeito inteiro de
+Isso é a alimentação viva no sentido mais pleno. Não é só o que entra pela boca. É um jeito inteiro de
 habitar o corpo e a vida, em que o prato é o começo, e não o fim. A tradição indiana nunca
 separou a comida do sol, do movimento, do fôlego e da paz — porque tudo isso é, no fundo, o
 mesmo cuidado, nutrindo o mesmo ser, camada por camada. E agora esse cuidado inteiro está nas

@@ -64,7 +64,7 @@ eu não quero que você a leia com a mentalidade do contador ansioso, transforma
 numa nova cobrança. Leia-a como quem **conhece um amigo por dentro**: com curiosidade e carinho,
 para entender do que você é feito. O conhecimento dos nutrientes é o mapa; a comida viva e
 inteira é o território; e a sua intuição, treinada, é a bússola. Os três juntos — não um deles
-sozinho — é que fazem a alimentação dos deuses.
+sozinho — é que fazem a alimentação viva.
 
 Com esses óculos no rosto, agora sim: vamos entrar no seu corpo e conhecer, com ciência e sem
 neura, cada peça de que você é feito.

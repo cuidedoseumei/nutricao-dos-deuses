@@ -205,7 +205,7 @@ code{font-family:ui-monospace,Menlo,Consolas,monospace;font-size:.85em;backgroun
 
 const botanicSvg = `<svg class="botanic tl" width="260" height="260" viewBox="0 0 100 100" aria-hidden="true"><g fill="none" stroke="#e6c789" stroke-width="1"><path d="M20 90C30 60 45 40 80 12"/><path d="M34 62c-8-2-13-7-15-14 8-1 14 2 18 8M45 48c-8-2-13-7-15-14 8-1 14 2 18 8M57 35c-8-2-12-6-14-13 8-1 13 2 17 7M68 24c-7-2-11-6-13-12 7-1 12 2 16 7"/><path d="M40 74c2-8 7-13 14-15 1 8-2 14-8 18M51 60c2-8 7-13 14-15 1 8-2 14-8 18M62 47c2-7 6-12 13-14 1 7-2 13-7 17"/></g></svg>`;
 
-const html = `<title>Alimentação dos Deuses</title>
+const html = `<title>Os Pilares da Alimentação Viva</title>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <style>${css}</style>
 <div id="progress" aria-hidden="true"></div>
@@ -219,10 +219,10 @@ const html = `<title>Alimentação dos Deuses</title>
     <path d="M50 22C36 40 32 54 38 66c4 8 9 12 12 14 3-2 8-6 12-14 6-12 2-26-12-44Z" fill="none" stroke="#e6c789" stroke-width="1.2"/>
     <path d="M50 30v46M50 42c-4 2-7 5-9 9M50 42c4 2 7 5 9 9M50 56c-5 2-8 6-10 11M50 56c5 2 8 6 10 11" fill="none" stroke="#5fae72" stroke-width="1.6"/>
   </svg>
-  <div class="kicker">E-book · Nutrição vegana</div>
-  <h1>Alimentação <span class="g">dos Deuses</span></h1>
+  <div class="kicker">E-book · Nutrição vegetal</div>
+  <h1>Os Pilares <span class="g">da Alimentação Viva</span></h1>
   <div class="sep"></div>
-  <p class="sub">A clareza da ciência e a sabedoria milenar da Índia, no seu prato.</p>
+  <p class="sub">Nutrição vegetal, minerais e a sabedoria milenar do yoga e do Ayurveda.</p>
   <div style="height:2.1rem"></div>
   <span class="badge">Prévia do manuscrito · ~${(words / 1000).toFixed(0)} mil palavras · rascunho v4</span>
 </header>

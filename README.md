@@ -1,6 +1,6 @@
-# Alimentação dos Deuses
+# Os Pilares da Alimentação Viva
 
-Projeto do e-book **"Alimentação dos Deuses"** — nutrição vegana com fundamentação
+Projeto do e-book **"Os Pilares da Alimentação Viva"** — nutrição vegana com fundamentação
 científica unida à filosofia oriental (yoga antigo, Sámkhya, alimentação sáttvica) — e da
 **página de vendas de alta conversão** que o comercializa.
 

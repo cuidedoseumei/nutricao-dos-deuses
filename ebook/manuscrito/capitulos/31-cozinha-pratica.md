@@ -81,5 +81,5 @@ fruteira, à vista, e o docinho fora de alcance. Torne o caminho saudável o cam
 esforço — e aí você para de depender de heroísmo diário, e passa a comer bem no automático,
 porque foi assim que você desenhou a sua cozinha.
 
-Comer como um deus, no fim das contas, é muito mais sobre **sistema** do que sobre disciplina.
+Comer bem, no fim das contas, é muito mais sobre **sistema** do que sobre disciplina.
 Monte o sistema, e ele cuida de você.

@@ -5,18 +5,18 @@
  */
 
 export const site = {
-  brand: "Alimentação dos Deuses",
-  seloAutor: "Alimentação dos Deuses",
+  brand: "Os Pilares da Alimentação Viva",
+  seloAutor: "Os Pilares da Alimentação Viva",
   checkoutUrl:
     process.env.NEXT_PUBLIC_HOTMART_CHECKOUT_URL ||
     "https://pay.hotmart.com/F107133690I",
 
   hero: {
-    eyebrow: "E-book • Nutrição vegana + filosofia do yoga",
-    title: "Alimente-se como os deuses",
+    eyebrow: "E-book • Nutrição vegetal + yoga e Ayurveda",
+    title: "Os cinco pilares da alimentação viva",
     subtitle:
       "A ciência da nutrição vegana unida à sabedoria milenar do yoga — para você ter mais energia, clareza e saúde, com segurança e sem neura.",
-    cta: "Quero comer como os deuses",
+    cta: "Quero o meu e-book",
     reassurance: "Acesso imediato • Garantia de 7 dias • Pague com Pix ou cartão",
   },
 
@@ -35,20 +35,28 @@ export const site = {
   },
 
   mecanismo: {
-    title: "A ponte que faltava: ciência + sabedoria milenar",
-    lead: "“Alimentação dos Deuses” não é dieta. É um jeito de comer que nutre o corpo (com base em evidência) e eleva a energia (com base na filosofia sáttvica do yoga).",
+    title: "Os cinco pilares que sustentam tudo",
+    lead: "“Os Pilares da Alimentação Viva” não é dieta. É um jeito de comer que nutre o corpo (com base em evidência) e eleva a energia (com base na filosofia sáttvica do yoga).",
     pillars: [
       {
-        title: "Sáttvico",
-        text: "A tradição do yoga classifica os alimentos pela energia que promovem. O sáttvico — fresco, vegetal, vivo — é o que sustenta clareza e leveza.",
+        title: "Vida",
+        text: "Comer o que ainda está vivo: fresco, vegetal, integral — o mais perto possível de como a natureza entregou. O pilar que separa comida de produto.",
       },
       {
-        title: "Científico",
-        text: "O que a tradição intuiu, a nutrição moderna confirma: alimentos vegetais integrais são densos em nutrientes. Cada afirmação de saúde aqui tem fonte.",
+        title: "Ciência",
+        text: "Saber sem neura o que o corpo pede: proteína, todos os minerais, B12, D e ômega-3 — e, principalmente, como absorvê-los. Cada afirmação com fonte.",
       },
       {
-        title: "Ahimsa",
-        text: "A não-violência como raiz ética: comer de um jeito que faz bem a você e ao mundo. Propósito e prato no mesmo lugar.",
+        title: "Consciência",
+        text: "O ahimsa, o menor dano possível, a compaixão que inclui você mesmo. Comer com presença e com ética — o pilar que dá sentido ao resto.",
+      },
+      {
+        title: "Ritmo",
+        text: "O corpo tem relógio: o fogo digestivo do dia, o ciclo das estações e a fome que é verdadeira. Ensina quando e como comer, não só o quê.",
+      },
+      {
+        title: "Terra",
+        text: "Alimento autêntico: da estação, da sua região, sem veneno, com solo vivo por trás. O pilar que liga o seu prato ao mundo que o produziu.",
       },
     ],
   },
@@ -78,7 +86,7 @@ export const site = {
       },
       {
         title: "Receitas e prática",
-        text: "Como montar o prato, cardápio de 7 dias, lista de compras e as receitas do autor.",
+        text: "Como montar o prato, comer pelas estações, lista de compras e as receitas do autor.",
       },
     ],
   },
@@ -96,16 +104,16 @@ export const site = {
 
   autor: {
     title: "De quem cuida de gente de verdade",
-    text: "O “Alimentação dos Deuses” nasceu do cuidado com a saúde e da paixão por uma alimentação com propósito. Uma ponte entre o rigor da ciência e a leveza da tradição.",
+    text: "“Os Pilares da Alimentação Viva” nasceu do cuidado com a saúde e da paixão por uma alimentação com propósito. Uma ponte entre o rigor da ciência e a leveza da tradição.",
   },
 
   oferta: {
     title: "Tudo o que está incluído",
-    productName: "E-book Alimentação dos Deuses",
+    productName: "E-book Os Pilares da Alimentação Viva",
     productItems: [
       "A filosofia sáttvica e o sentido de comer com consciência",
       "A ciência descomplicada: proteína, todos os minerais, B12, D e ômega-3",
-      "A prática: montagem do prato, suplementação e receitas do autor",
+      "A prática: montagem do prato, ritmo, estações, suplementação e receitas",
     ],
     bonusTitle: "Bônus inclusos",
     bonus: [
@@ -114,8 +122,8 @@ export const site = {
         text: "O que realmente suplementar — sem exagero nem desperdício.",
       },
       {
-        name: "Cardápio Sáttvico de 7 dias",
-        text: "Café, almoço, jantar e lanches, prontos para seguir.",
+        name: "Semana de Nutrição Sáttvica",
+        text: "Como cobrir todos os nutrientes ao longo da semana, no seu ritmo.",
       },
       {
         name: "Lista de Compras Inteligente",
@@ -165,7 +173,7 @@ export const site = {
   },
 
   ctaFinal: {
-    title: "Comece hoje a comer como os deuses",
+    title: "Comece hoje a se alimentar de vida",
     text: "Clareza, energia e propósito no seu prato — com a segurança de quem se apoia na ciência e na sabedoria milenar.",
     cta: "Quero começar agora",
   },
@@ -173,11 +181,11 @@ export const site = {
   footer: {
     disclaimer:
       "Conteúdo educativo. Não substitui a orientação individual de nutricionista ou médico. Resultados variam de pessoa para pessoa. Toda afirmação de saúde do material é referenciada em fontes reconhecidas.",
-    rights: "Alimentação dos Deuses",
+    rights: "Os Pilares da Alimentação Viva",
   },
 
   obrigado: {
-    title: "Bem-vindo à Alimentação dos Deuses!",
+    title: "Bem-vindo aos Pilares da Alimentação Viva!",
     text: "Sua compra foi confirmada. O acesso ao e-book e aos bônus foi liberado pela Hotmart — verifique também o seu e-mail. Qualquer dúvida, é só responder o e-mail de boas-vindas.",
     cta: "Voltar ao início",
   },

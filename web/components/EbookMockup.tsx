@@ -49,41 +49,52 @@ export default function EbookMockup({ className = "" }: { className?: string }) 
       {/* título */}
       <text
         x="154"
-        y="250"
+        y="244"
         textAnchor="middle"
         fill="#F5F1E8"
         fontFamily="Georgia, serif"
-        fontSize="26"
+        fontSize="24"
         fontWeight="700"
       >
-        Alimentação
+        Os Pilares
       </text>
       <text
         x="154"
-        y="282"
+        y="274"
         textAnchor="middle"
         fill="#E0A83B"
         fontFamily="Georgia, serif"
-        fontSize="26"
+        fontSize="22"
         fontWeight="700"
       >
-        dos Deuses
+        da Alimentação
+      </text>
+      <text
+        x="154"
+        y="300"
+        textAnchor="middle"
+        fill="#E0A83B"
+        fontFamily="Georgia, serif"
+        fontSize="22"
+        fontWeight="700"
+      >
+        Viva
       </text>
       {/* subtítulo */}
       <text
         x="154"
-        y="316"
+        y="336"
         textAnchor="middle"
         fill="#cfe3d3"
         fontFamily="system-ui, sans-serif"
-        fontSize="11"
-        letterSpacing="1.5"
+        fontSize="10"
+        letterSpacing="1.4"
       >
-        NUTRIÇÃO VEGANA • YOGA • CIÊNCIA
+        NUTRIÇÃO VEGETAL • MINERAIS
       </text>
       <text
         x="154"
-        y="360"
+        y="366"
         textAnchor="middle"
         fill="#9fb8a5"
         fontFamily="system-ui, sans-serif"

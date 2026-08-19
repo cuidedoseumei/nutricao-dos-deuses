@@ -62,5 +62,5 @@ cuidar do alicerce sobre o qual você constrói tudo o que você é.
 
 Então, da próxima vez que você montar um prato, lembre-se, sem peso e com carinho: você não está
 só matando a fome. Está escolhendo do que vai ser feito. Está participando, garfada por garfada,
-da sua própria criação contínua. Essa é, talvez, a razão mais profunda de todas para comer como
-um deus — porque o que você come, você se torna.
+da sua própria criação contínua. Essa é, talvez, a razão mais profunda de todas para comer
+vivo — porque o que você come, você se torna.

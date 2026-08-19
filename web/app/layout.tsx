@@ -6,17 +6,23 @@ const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "http://localhost:3000";
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
-  title: `${site.brand} — Nutrição vegana com ciência e filosofia do yoga`,
+  title: `${site.brand} — Nutrição vegetal, minerais e a sabedoria do yoga e do Ayurveda`,
   description: site.hero.subtitle,
   keywords: [
+    "alimentação viva",
     "alimentação vegana",
-    "nutrição vegana",
-    "e-book vegano",
-    "alimentação sáttvica",
-    "yoga",
+    "nutrição vegetal",
+    "plant based",
     "minerais dieta vegana",
     "vitamina B12 vegano",
+    "vitalidade",
+    "longevidade",
+    "alimentação consciente",
+    "yoga",
+    "ayurveda",
+    "alimentação sáttvica",
   ],
+
   openGraph: {
     title: `${site.brand}`,
     description: site.hero.subtitle,

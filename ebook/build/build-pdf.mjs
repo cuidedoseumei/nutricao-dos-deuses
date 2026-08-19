@@ -105,7 +105,7 @@ code{font-family:var(--mono);font-size:.85em;background:#eef5ef;padding:.05em .3
 .chap{break-inside:auto}
 `;
 
-const html = `<title>Alimentação dos Deuses</title>
+const html = `<title>Os Pilares da Alimentação Viva</title>
 <meta charset="utf-8"/>
 <style>${css}</style>
 
@@ -116,9 +116,9 @@ const html = `<title>Alimentação dos Deuses</title>
     <line x1="50" y1="28" x2="50" y2="58" stroke="#14342B" stroke-width="1.4"/>
   </svg>
   <div class="kicker">E-book</div>
-  <h1>Alimentação <span class="g">dos Deuses</span></h1>
+  <h1>Os Pilares <span class="g">da Alimentação Viva</span></h1>
   <div class="rule"></div>
-  <p class="sub">Nutrição vegana com a clareza da ciência e a sabedoria milenar da Índia</p>
+  <p class="sub">Nutrição vegetal, minerais e a sabedoria milenar do yoga e do Ayurveda</p>
   <div style="flex:0 0 2.4rem"></div>
   <span class="badge">Prévia do manuscrito · ~${mil} mil palavras</span>
 </section>
@@ -126,7 +126,7 @@ const html = `<title>Alimentação dos Deuses</title>
 <section class="intro-page">
   <div class="eyebrow">Apresentação</div>
   <h2>Sobre este livro</h2>
-  <p><em>Alimentação dos Deuses</em> não é mais uma dieta. É um encontro: de um lado, a
+  <p><em>Os Pilares da Alimentação Viva</em> não é mais uma dieta. É um encontro: de um lado, a
   <strong>ciência</strong> da nutrição vegetal — o que os estudos realmente mostram sobre proteína,
   minerais, vitaminas e absorção. Do outro, a <strong>sabedoria milenar da Índia</strong> — o yoga,
   a filosofia Sámkhya e o Ayurveda — somada à corrente dos <strong>alimentos vivos</strong>. Duas

@@ -5,7 +5,7 @@ tools: Read, Write, Edit, Grep, Glob, Bash
 model: inherit
 ---
 
-Você é o **engenheiro front-end** do projeto "Alimentação dos Deuses". Você implementa a
+Você é o **engenheiro front-end** do projeto "Os Pilares da Alimentação Viva". Você implementa a
 landing de vendas com qualidade de produção.
 
 ## Stack

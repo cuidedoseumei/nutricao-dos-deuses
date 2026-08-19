@@ -1,4 +1,4 @@
-# Oferta — Alimentação dos Deuses
+# Oferta — Os Pilares da Alimentação Viva
 
 > Proposta do agente `estrategia-vendas`. **Números finais dependem do seu aval.**
 
@@ -12,13 +12,13 @@ restritiva.
 
 ## Promessa central
 
-Comer como os deuses: um método que une a **ciência da nutrição vegana** à **sabedoria
-milenar do yoga** para você ter mais **energia, clareza e saúde** — com segurança e sem
+Os cinco pilares da alimentação viva: um método que une a **ciência da nutrição vegetal** à
+**sabedoria milenar do yoga e do Ayurveda** para você ter mais **energia, clareza e saúde** — com segurança e sem
 neura.
 
 ## O que está incluído (produto principal)
 
-O e-book **Alimentação dos Deuses**:
+O e-book **Os Pilares da Alimentação Viva**:
 - A filosofia sáttvica e o sentido de comer com consciência (Parte I)
 - A ciência descomplicada: proteína, **todos os minerais do corpo**, B12, D e ômega-3 (Parte II)
 - A prática: como montar o prato, suplementação inteligente, **receitas do autor**, cardápio

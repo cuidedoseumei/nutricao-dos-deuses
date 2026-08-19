@@ -81,7 +81,7 @@ Os **alimentos sáttvicos** são os frescos, vegetais, vivos, simples: as frutas
 legumes, as verduras, os grãos integrais, as leguminosas, as castanhas, as sementes, as ervas.
 Comida que a natureza entrega quase pronta, que não precisa de muita violência para virar
 refeição. Segundo a tradição, é a comida que sustenta a mente serena e o corpo leve — a
-verdadeira "alimentação dos deuses".
+verdadeira "alimentação dos deuses" de que falam as escrituras antigas.
 
 Os **alimentos rajásicos** são os que agitam demais. O muito picante, o muito salgado, o muito
 estimulante. O excesso de café, de pimenta, de temperos ardentes, de frituras. Não são

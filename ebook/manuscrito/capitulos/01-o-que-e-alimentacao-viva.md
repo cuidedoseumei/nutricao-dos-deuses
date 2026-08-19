@@ -1,6 +1,6 @@
 # Parte I — A visão
 
-## Capítulo 1 — O que é comer como um deus
+## Capítulo 1 — O primeiro pilar: o que é alimentação viva
 
 Deixa eu começar com uma cena que talvez você reconheça.
 
@@ -16,9 +16,9 @@ vai te deixar mais leve às três da tarde. Seu corpo já sabe. Ele sempre soube
 entre uma escolha e outra não é uma questão de moral — é uma questão de como você quer se
 sentir daqui a duas horas, e daqui a dez anos.
 
-**Comer como um deus não tem nada a ver com comer caro.** Não é sobre superalimentos
+**Alimentação viva não tem nada a ver com comer caro.** Não é sobre superalimentos
 importados com nomes exóticos, nem sobre gastar uma fortuna em pó de alguma raiz do outro
-lado do mundo. Isso é marketing, não sabedoria. Comer como um deus é, na real, uma das coisas
+lado do mundo. Isso é marketing, não sabedoria. Comer vivo é, na real, uma das coisas
 mais simples e mais baratas que existem: é escolher, na maior parte das vezes, o alimento que
 está mais perto de como a natureza o entregou. Um grão que ainda é um grão. Uma folha que
 ainda parece uma folha. Uma fruta que apodrece se você esquecer dela na fruteira — porque
@@ -64,7 +64,7 @@ conversa ao longo do tempo. É a direção para onde a maioria das suas escolhas
 
 E é aí que mora a boa notícia, a que eu mais quero que você leve para casa: você não precisa
 ser perfeito. Você precisa só ir mudando o tom, aos poucos, na direção da leveza. Uma escolha
-melhor de cada vez. É assim que se come como um deus — não num gesto heroico e único, mas num
+melhor de cada vez. É assim que se ergue o primeiro pilar — não num gesto heroico e único, mas num
 hábito humilde e repetido, todo santo dia, um pouquinho melhor que ontem.
 
 No próximo capítulo, eu vou te apresentar a ideia mais antiga e mais elegante que eu conheço

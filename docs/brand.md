@@ -1,4 +1,4 @@
-# Identidade de marca — Alimentação dos Deuses
+# Identidade de marca — Os Pilares da Alimentação Viva
 
 > Proposta inicial para aprovação. Ajuste livremente.
 
@@ -25,7 +25,7 @@ A ponte entre a **ciência nutricional moderna** e a **sabedoria milenar do yoga
 | Neutro claro | Areia clara | `#F5F1E8` |
 | Texto sobre claro | Grafite quente | `#26221C` |
 
-Racional: verde = vida/vegano; dourado = "dos deuses"/energia; areia = leveza e clareza.
+Racional: verde = vida/vegetal; dourado = energia/sol; areia = leveza e clareza.
 
 ## Tipografia (proposta)
 

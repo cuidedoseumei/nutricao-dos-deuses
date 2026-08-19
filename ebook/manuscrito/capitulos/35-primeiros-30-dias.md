@@ -75,5 +75,5 @@ não apaga três semanas de construção. Você não está tentando ser perfeito
 plantando, com paciência e carinho, hábitos que vão te nutrir pelos próximos 30 anos.
 
 Esse é o plano. Simples, gradual, humano. Comece amanhã pela Semana 1 — só a B12 e uma folha
-verde. E deixe o resto vir no seu tempo. Você tem a vida inteira para comer como um deus; não
+verde. E deixe o resto vir no seu tempo. Você tem a vida inteira para erguer os seus pilares; não
 precisa aprender tudo numa refeição só.

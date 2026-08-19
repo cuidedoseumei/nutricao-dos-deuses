@@ -5,11 +5,11 @@ A copy final vive em `web/content/`.
 
 ## Hero — headline principal (candidatas)
 
-1. **Alimente-se como os deuses.** A ciência da nutrição vegana unida à sabedoria milenar do
+1. **Os cinco pilares da alimentação viva.** A ciência da nutrição vegetal unida à sabedoria milenar do
    yoga — para você ter mais energia, clareza e saúde sem neura.
 2. Coma com consciência, viva com energia: o guia completo da **alimentação vegana sáttvica**,
    da ciência dos minerais às receitas que nutrem corpo e mente.
-3. E se comer virasse um ato sagrado? Descubra a **alimentação dos deuses** — vegana,
+3. E se comer virasse um ato consciente? Descubra a **alimentação viva** — vegetal,
    embasada na ciência e inspirada na filosofia do yoga.
 
 ## Subheadlines
@@ -26,7 +26,7 @@ A copy final vive em `web/content/`.
 
 ## CTAs
 
-- Quero comer como os deuses
+- Quero o meu e-book
 - Garantir meu e-book agora
 - Começar minha alimentação sáttvica
 

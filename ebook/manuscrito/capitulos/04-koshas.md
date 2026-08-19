@@ -61,7 +61,7 @@ sem sentido, porque as outras camadas estão famintas.
 A boa notícia é que elas conversam entre si. Um corpo bem nutrido facilita uma respiração mais
 plena; uma respiração mais plena acalma a mente; uma mente mais calma abre espaço para a
 sabedoria e a alegria. Você começa pela base — a comida — e o cuidado sobe, camada por camada.
-Comer como um deus, no sentido mais completo, é isto: nutrir não só a carne, mas o ser inteiro.
+Nutrir-se, no sentido mais completo, é isto: cuidar não só da carne, mas do ser inteiro.
 
 Guarde este mapa. Ele vai reaparecer quando a gente falar de respiração, de sol, de movimento e
 de comer com intuição — porque tudo isso são formas de nutrir as camadas que o garfo, sozinho,

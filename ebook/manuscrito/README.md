@@ -1,4 +1,4 @@
-# Manuscrito — Alimentação dos Deuses
+# Manuscrito — Os Pilares da Alimentação Viva
 
 O manuscrito completo (~40 mil palavras) está em [`capitulos/`](capitulos/), um arquivo por
 capítulo, **numerados na ordem de leitura (00–38)**. A pesquisa que alimenta cada parte está em
@@ -8,7 +8,7 @@ capítulo, **numerados na ordem de leitura (00–38)**. A pesquisa que alimenta 
 
 **Abertura** (00): combinado honesto + introdução.
 
-**Parte I — A visão** (1–11): comer como um deus · Sámkhya e os gunas · annamaya · koshas ·
+**Parte I — A visão** (1–11): o que é alimentação viva · Sámkhya e os gunas · annamaya · koshas ·
 Ayurveda 101 · os seis sabores · ahimsa · o alimento é luz + intuição · alimentos vivos (os
 autores) · a ponte ciência×tradição · além dos números.
 

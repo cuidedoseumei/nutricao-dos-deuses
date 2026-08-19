@@ -9,20 +9,26 @@ Textos para colar diretamente nos campos do assistente de criação de produto d
 > Cole exatamente este texto (485 caracteres):
 
 ```
-E-book de nutrição vegana que une ciência e a filosofia do yoga. Ensino, de forma prática e sem neura, como ter uma alimentação vegetal completa e cheia de energia: todos os minerais e vitaminas essenciais (inclusive ferro, cálcio, iodo e B12), como montar o prato, o que suplementar e receitas do autor. Acompanha bônus: guia de suplementação, cardápio de 7 dias, lista de compras e tabela de minerais. Para quem é vegano ou quer reduzir o consumo animal com consciência.
+Os cinco pilares da alimentação viva: um guia completo de nutrição vegetal que une a ciência
+à sabedoria milenar do yoga e do Ayurveda. Ensina, de forma prática e sem neura, como se
+alimentar de plantas com energia, vitalidade e longevidade: todos os minerais do corpo, a
+B12, o ferro, o cálcio e as vitaminas que exigem plano, como montar o prato, comer pelas
+estações e o que suplementar. Inclui receitas, semana de nutrição e lista de compras.
 ```
 
 **Versão curta alternativa** (se preferir mais direto):
 
 ```
-E-book de nutrição vegana com base científica e na filosofia sáttvica do yoga. Ensina, de forma prática, como se alimentar de plantas com energia e segurança: todos os minerais e vitaminas do corpo (ferro, cálcio, iodo, B12), montagem do prato, suplementação e receitas. Inclui cardápio de 7 dias e lista de compras.
+Guia de alimentação viva e nutrição vegetal com base científica e na sabedoria do yoga e do
+Ayurveda. Todos os minerais do corpo, a B12 e as vitaminas essenciais, montagem do prato,
+comer pelas estações, suplementação e receitas — para mais energia e vitalidade.
 ```
 
 ---
 
 ## Outros campos comuns do cadastro (sugestões)
 
-- **Nome do produto:** `Alimentação dos Deuses`
+- **Nome do produto:** `Os Pilares da Alimentação Viva`
 - **Categoria:** Saúde e Bem-estar (ou Educação / Culinária, conforme a lista da Hotmart)
 - **Formato:** E-book (arquivo digital / PDF)
 - **Idioma:** Português (Brasil)
@@ -33,3 +39,21 @@ E-book de nutrição vegana com base científica e na filosofia sáttvica do yog
 
 > Quando chegar na etapa do checkout, copie o **link da página de vendas/checkout** que a
 > Hotmart gerar e me envie — eu ligo o botão da landing a ele.
+
+---
+
+## ⚠️ Renomeação do produto (se você já cadastrou como "Alimentação dos Deuses")
+
+O e-book foi renomeado para **Os Pilares da Alimentação Viva**. Para atualizar na Hotmart:
+
+1. **Produtos → seu produto → Informações básicas**
+   - Alterar o **nome** para `Os Pilares da Alimentação Viva`
+   - Colar a **nova descrição** (texto acima)
+2. **Imagem do produto** — gerar uma nova capa com o título atualizado (o prompt de imagem
+   continua válido; troque apenas o texto do título, se a capa tiver texto).
+3. **Página de vendas** — o link do checkout **não muda**
+   (`https://pay.hotmart.com/F107133690I`); a landing já foi atualizada.
+4. **Materiais de afiliados** — substituir o kit pelo texto novo de
+   `marketing/copy/kit-afiliados.md`.
+
+> Se a Hotmart pedir nova aprovação após a mudança de nome, é normal — costuma ser rápida.

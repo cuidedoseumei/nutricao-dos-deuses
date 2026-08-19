@@ -1,10 +1,10 @@
-# Kit do Afiliado — Alimentação dos Deuses
+# Kit do Afiliado — Os Pilares da Alimentação Viva
 
 Tudo o que o afiliado precisa para divulgar e vender. Copie, adapte ao seu tom e publique.
 
 ## Resumo do produto (o essencial)
 
-- **Produto:** E-book *Alimentação dos Deuses* — nutrição vegana com base científica + a
+- **Produto:** E-book *Os Pilares da Alimentação Viva* — nutrição vegana com base científica + a
   filosofia do yoga (alimentação sáttvica).
 - **Preço:** R$ 199 → **R$ 59** (promocional de lançamento).
 - **Comissão do afiliado:** **50%** (≈ R$ 29,50 por venda).
@@ -52,7 +52,7 @@ nutricao-dos-deuses.vercel.app
 >
 > Ferro, B12, cálcio, iodo, proteína — quanto mais a gente lê, mais confuso fica.
 >
-> O e-book **Alimentação dos Deuses** une a ciência da nutrição vegana à sabedoria milenar
+> O e-book **Os Pilares da Alimentação Viva** une a ciência da nutrição vegana à sabedoria milenar
 > do yoga pra te dar um mapa claro: todos os minerais e vitaminas do corpo, o que
 > suplementar, como montar o prato e receitas.
 >
@@ -81,7 +81,7 @@ nutricao-dos-deuses.vercel.app
 > Se você é vegano (ou pensa em ser) e já se pegou na dúvida "será que estou tendo tudo que
 > preciso?", esse e-mail é pra você.
 >
-> Acabei de conhecer o *Alimentação dos Deuses* — um e-book que descomplica a nutrição
+> Acabei de conhecer o *Os Pilares da Alimentação Viva* — um e-book que descomplica a nutrição
 > vegana com base científica e ainda traz a sabedoria do yoga sobre a comida que dá energia.
 >
 > Ele cobre todos os minerais e vitaminas do corpo (inclusive a famosa B12), o que

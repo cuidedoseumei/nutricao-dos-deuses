@@ -66,7 +66,7 @@ ferramentas para isso. Mas cuidar da sua vitalidade é um projeto maior e mais b
 - Ter momentos de calma, de silêncio, de respiração.
 - Manter vínculos, propósito, alegria.
 
-É o pacote completo do "comer como um deus": não só o que entra pela boca, mas o estado de quem
+É o pacote completo da alimentação viva: não só o que entra pela boca, mas o estado de quem
 come. Porque a comida mais sáttvica do mundo rende pouco num corpo exausto e numa mente em
 guerra — e rende muito num corpo descansado e numa mente em paz.
 

@@ -22,7 +22,7 @@ de minerais nem uma lista de suplementos. É isto:
 
 Lembra do ahimsa? Não fazer dano — aos bichos, ao planeta, e a você mesmo. Isso inclui não se
 torturar com perfeccionismo. Não transformar este conhecimento todo em mais uma fonte de culpa
-e ansiedade. A alimentação dos deuses não é comida de gente perfeita. É comida de gente que
+e ansiedade. A alimentação viva não é comida de gente perfeita. É comida de gente que
 escolhe, na maioria das vezes, com um pouco mais de consciência e um pouco mais de carinho, do
 que escolhia ontem.
 
@@ -33,8 +33,8 @@ feijão do almoço. Talvez seja pôr uma folha verde no prato todo dia. Talvez s
 mais simples e mais poderoso de todos: reparar, depois de comer, se você ficou mais leve ou
 mais pesado, mais claro ou mais enevoado — e deixar o seu próprio corpo virar o seu professor.
 
-Uma escolha melhor de cada vez. Três vezes por dia. Todos os dias. É assim, e só assim, que se
-come como um deus — não num gesto heroico e único, mas num hábito humilde, repetido com
+Uma escolha melhor de cada vez. Todos os dias. É assim, e só assim, que se
+erguem os cinco pilares — não num gesto heroico e único, mas num hábito humilde, repetido com
 paciência, que ao longo dos anos vai desenhando, garfada por garfada, uma vida mais leve, mais
 lúcida e mais inteira.
 
@@ -48,7 +48,7 @@ ser: um lugar diário de cuidado, de consciência e de vida.
 
 Com todo o carinho,
 
-*— Alimentação dos Deuses*
+*— Os Pilares da Alimentação Viva*
 
 ---
 

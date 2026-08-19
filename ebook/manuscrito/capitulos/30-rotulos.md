@@ -3,7 +3,7 @@
 Boa parte do que sabota uma alimentação saudável não entra em casa por maldade — entra
 disfarçada de "opção saudável", com embalagem verde, folhinhas desenhadas e palavras como
 "natural", "fit" e "vegano" estampadas na frente. Este capítulo curto te dá um par de óculos
-para enxergar através do marketing e comprar com consciência. Porque comer como um deus também
+para enxergar através do marketing e comprar com consciência. Porque comer vivo também
 é não ser enganado no corredor do mercado.
 
 ### A regra que resolve 80% dos casos

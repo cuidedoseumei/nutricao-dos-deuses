@@ -97,7 +97,7 @@ entrega mesmo assim.
 É também uma lição de humildade que eu faço questão de deixar registrada: a nutrição é uma
 ciência jovem, e o alimento sabe mais do que os nossos instrumentos já mediram. Entre o
 suplemento isolado e a comida inteira, escolha a comida — ela carrega o conhecido, o suspeitado
-e o ainda-não-descoberto, tudo na mesma garfada. Os deuses, ao que parece, cozinham com
+e o ainda-não-descoberto, tudo na mesma garfada. A natureza, ao que parece, cozinha com
 ingredientes que a gente ainda está aprendendo a nomear.
 
 Fechado o inventário mineral — agora sim, completo, do cálcio ao vanádio —, seguimos para as
